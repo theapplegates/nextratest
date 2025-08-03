@@ -50,16 +50,6 @@
       "static/chunks/234-3f8fa67c00ae7803.js",
       "static/chunks/app/posts/(with-comments)/layout-be29e589a6de5a89.js"
     ],
-    "/posts/(with-comments)/aaron-swartz-a-programmable-web/page": [
-      "static/chunks/webpack-184be98a2a40f308.js",
-      "static/chunks/34ff63f5-3aba95593fab77ea.js",
-      "static/chunks/845-5befd85795fd3755.js",
-      "static/chunks/main-app-80d2030d0da719d2.js",
-      "static/chunks/234-3f8fa67c00ae7803.js",
-      "static/chunks/553-6701993e3b76a94f.js",
-      "static/chunks/67-a38e15c6f92fbc85.js",
-      "static/chunks/app/posts/(with-comments)/aaron-swartz-a-programmable-web/page-40787b73efa969a3.js"
-    ],
     "/posts/(with-comments)/draft/page": [
       "static/chunks/webpack-184be98a2a40f308.js",
       "static/chunks/34ff63f5-3aba95593fab77ea.js",
@@ -70,16 +60,6 @@
       "static/chunks/67-a38e15c6f92fbc85.js",
       "static/chunks/app/posts/(with-comments)/draft/page-002951314a118696.js"
     ],
-    "/posts/(with-comments)/code-blocks/page": [
-      "static/chunks/webpack-184be98a2a40f308.js",
-      "static/chunks/34ff63f5-3aba95593fab77ea.js",
-      "static/chunks/845-5befd85795fd3755.js",
-      "static/chunks/main-app-80d2030d0da719d2.js",
-      "static/chunks/234-3f8fa67c00ae7803.js",
-      "static/chunks/553-6701993e3b76a94f.js",
-      "static/chunks/67-a38e15c6f92fbc85.js",
-      "static/chunks/app/posts/(with-comments)/code-blocks/page-b77ae958a6eb8ae0.js"
-    ],
     "/posts/(with-comments)/lists/page": [
       "static/chunks/webpack-184be98a2a40f308.js",
       "static/chunks/34ff63f5-3aba95593fab77ea.js",
@@ -89,6 +69,26 @@
       "static/chunks/553-6701993e3b76a94f.js",
       "static/chunks/67-a38e15c6f92fbc85.js",
       "static/chunks/app/posts/(with-comments)/lists/page-419c0ed0dfc96c9b.js"
+    ],
+    "/posts/(with-comments)/aaron-swartz-a-programmable-web/page": [
+      "static/chunks/webpack-184be98a2a40f308.js",
+      "static/chunks/34ff63f5-3aba95593fab77ea.js",
+      "static/chunks/845-5befd85795fd3755.js",
+      "static/chunks/main-app-80d2030d0da719d2.js",
+      "static/chunks/234-3f8fa67c00ae7803.js",
+      "static/chunks/553-6701993e3b76a94f.js",
+      "static/chunks/67-a38e15c6f92fbc85.js",
+      "static/chunks/app/posts/(with-comments)/aaron-swartz-a-programmable-web/page-40787b73efa969a3.js"
+    ],
+    "/posts/(with-comments)/code-blocks/page": [
+      "static/chunks/webpack-184be98a2a40f308.js",
+      "static/chunks/34ff63f5-3aba95593fab77ea.js",
+      "static/chunks/845-5befd85795fd3755.js",
+      "static/chunks/main-app-80d2030d0da719d2.js",
+      "static/chunks/234-3f8fa67c00ae7803.js",
+      "static/chunks/553-6701993e3b76a94f.js",
+      "static/chunks/67-a38e15c6f92fbc85.js",
+      "static/chunks/app/posts/(with-comments)/code-blocks/page-b77ae958a6eb8ae0.js"
     ],
     "/posts/(with-comments)/table/page": [
       "static/chunks/webpack-184be98a2a40f308.js",
@@ -111,18 +111,6 @@
       "static/chunks/67-a38e15c6f92fbc85.js",
       "static/chunks/app/posts/(with-comments)/nextra-components/page-ea318b12fa9527c9.js"
     ],
-    "/posts/page": [
-      "static/chunks/webpack-184be98a2a40f308.js",
-      "static/chunks/34ff63f5-3aba95593fab77ea.js",
-      "static/chunks/845-5befd85795fd3755.js",
-      "static/chunks/main-app-80d2030d0da719d2.js",
-      "static/chunks/234-3f8fa67c00ae7803.js",
-      "static/chunks/553-6701993e3b76a94f.js",
-      "static/chunks/45-6337466e3619f31f.js",
-      "static/chunks/67-a38e15c6f92fbc85.js",
-      "static/chunks/982-04e3a53c7cd66339.js",
-      "static/chunks/app/posts/page-3b3134c6e09ce2ce.js"
-    ],
     "/tags/[tag]/page": [
       "static/chunks/webpack-184be98a2a40f308.js",
       "static/chunks/34ff63f5-3aba95593fab77ea.js",
@@ -134,6 +122,18 @@
       "static/chunks/67-a38e15c6f92fbc85.js",
       "static/chunks/982-04e3a53c7cd66339.js",
       "static/chunks/app/tags/[tag]/page-64cc8a25ef600d07.js"
+    ],
+    "/posts/page": [
+      "static/chunks/webpack-184be98a2a40f308.js",
+      "static/chunks/34ff63f5-3aba95593fab77ea.js",
+      "static/chunks/845-5befd85795fd3755.js",
+      "static/chunks/main-app-80d2030d0da719d2.js",
+      "static/chunks/234-3f8fa67c00ae7803.js",
+      "static/chunks/553-6701993e3b76a94f.js",
+      "static/chunks/45-6337466e3619f31f.js",
+      "static/chunks/67-a38e15c6f92fbc85.js",
+      "static/chunks/982-04e3a53c7cd66339.js",
+      "static/chunks/app/posts/page-3b3134c6e09ce2ce.js"
     ]
   }
 }
