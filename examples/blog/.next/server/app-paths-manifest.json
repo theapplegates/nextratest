@@ -4,11 +4,11 @@
   "/icon.svg/route": "app/icon.svg/route.js",
   "/page": "app/page.js",
   "/posts/(with-comments)/aaron-swartz-a-programmable-web/page": "app/posts/(with-comments)/aaron-swartz-a-programmable-web/page.js",
-  "/posts/(with-comments)/code-blocks/page": "app/posts/(with-comments)/code-blocks/page.js",
-  "/posts/(with-comments)/nextra-components/page": "app/posts/(with-comments)/nextra-components/page.js",
   "/posts/(with-comments)/draft/page": "app/posts/(with-comments)/draft/page.js",
+  "/posts/(with-comments)/code-blocks/page": "app/posts/(with-comments)/code-blocks/page.js",
   "/posts/(with-comments)/lists/page": "app/posts/(with-comments)/lists/page.js",
   "/posts/(with-comments)/table/page": "app/posts/(with-comments)/table/page.js",
+  "/posts/(with-comments)/nextra-components/page": "app/posts/(with-comments)/nextra-components/page.js",
   "/posts/page": "app/posts/page.js",
   "/tags/[tag]/page": "app/tags/[tag]/page.js"
 }
