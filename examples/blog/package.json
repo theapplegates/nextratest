@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "next": "^15.0.2",
-    "nextra": "workspace:*",
-    "nextra-theme-blog": "workspace:*",
+    "nextra": "^3.2.0",
+    "nextra-theme-blog": "^3.2.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
