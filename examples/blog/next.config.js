@@ -1,11 +1,11 @@
-import nextra from 'nextra'
+const nextra = require('nextra')
 
 const withNextra = nextra({
   defaultShowCopyCode: true,
   readingTime: true
 })
 
-export default withNextra({
+module.exports = withNextra({
   reactStrictMode: true,
   cleanDistDir: true
 })

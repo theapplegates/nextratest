@@ -1,6 +1,5 @@
 {
   "name": "example-blog",
-  "type": "module",
   "license": "MIT",
   "private": true,
   "scripts": {
