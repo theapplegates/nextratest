@@ -10,14 +10,6 @@
       // Cache all files emitted to the packages's directories
       "outputs": ["dist/**", ".next/**", "public/_pagefind/**"]
     },
-    {
-      "pipeline": {
-        "build": {
-          "dependsOn": ["^build"],
-          "outputs": [".next/**", "!.next/cache/**"]
-        }
-      }
-    }
     "test": {
       "outputs": ["dist/**"]
     },
